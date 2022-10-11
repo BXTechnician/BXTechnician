@@ -1,6 +1,7 @@
 👋 Hi, I’m @BXTechnician an IT professional who is a complete novice to the world of programming/coding.
 
-👀 I’ve always been interested in becoming programming for a very long time. 
+👀 I’ve been interested in programming for a very long time. 
+
 I am currently studying to become a Full Stack Web Developer.
 
 🌱 I’m currently learning Full Stack Web Development.(Just started on FreeCodeCamp.org)
