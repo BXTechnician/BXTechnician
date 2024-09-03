@@ -8,7 +8,6 @@ I am currently studying to become a Full Stack Web Developer.
 
 💞️ I’m looking to collaborate on anything where I can learn from.
 
-📫 I can be reached at BxTechnician86@Gmail.Com 
 
 <!---
 BXTechnician/BXTechnician is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
