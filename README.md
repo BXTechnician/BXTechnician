@@ -2,8 +2,6 @@
 
 👀 I’ve been interested in programming for a very long time. 
 
-I am currently studying to become a Full Stack Web Developer.
-
 🌱 I’m currently learning Full Stack Web Development.
 
 💞️ I’m looking to collaborate on anything where I can learn from.
